@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##  présentation, compétences, projets, images, etc
 <!--
 **palla-univ-orso/palla-univ-orso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
