@@ -1,15 +1,15 @@
-##  présentation, compétences, projets, images, etc
-<!--
-**palla-univ-orso/palla-univ-orso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Bonjour, je suis Palla Gueye 👋
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+## À propos de moi
+- Étudiante passionnée par la data et le Big Data
+- J'apprends actuellement : Python, R, SQL, Git & GitHub
+- Objectif : Monter en compétences et construire des projets data utiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Langages : Python, R, SQL
+- Outils : Git, GitHub
+
+## Me contacter
+- Email : palla.gueye@edu-univ-paris13.fr
+- LinkedIn : https://fr.linkedin.com/in/palla-gueye-258444215
